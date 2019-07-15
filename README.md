@@ -1,0 +1,2 @@
+# student_information_management
+简单的php数据库测试代码
