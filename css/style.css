@@ -1,0 +1,24 @@
+.header {
+	padding: 20px 0 20px 15px;
+	font-family:"Microsoft YaHei","微软雅黑","黑体","宋体",sans-serif;
+    font-weight: 600;
+	text-align: center;
+	background-color: #444444;
+	color: #FFFFFF;
+  	text-align: center;
+}
+
+.body {
+	font-family:"Microsoft YaHei","微软雅黑","黑体","宋体",sans-serif;
+	background-color: #FAFBFC;
+	color: #444444;
+  	text-align: center;
+}
+
+.footer {
+	padding: 20px 0 20px 15px;
+  	line-height:100%;
+	background-color: #FFFFFF;
+    color: #717171;
+	text-align: center;
+}
