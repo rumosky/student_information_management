@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>欢迎进入人力资源管理系统</title>
+		<title>欢迎使用本系统</title>
 		<link rel="stylesheet" href="css/style.css" />
 	</head>
 	<body>

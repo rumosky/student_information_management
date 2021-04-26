@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>人力资源管理</title>
+<title>简易学生管理</title>
 </head>
 <body>
 <h2>系统菜单</h2>

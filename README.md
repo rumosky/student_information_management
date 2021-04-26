@@ -47,7 +47,7 @@ primary key(id)
 
 #### 补充说明
 
-如果数据库是SQL server，那么需要修改dbconfig.php这个文件里面的一点点代码
+如果数据库是SQL server，那么需要修改dbconfig.php代码
 ```php
 <?php
         //连接数据库
@@ -68,6 +68,4 @@ PHP连接SQL server需要安装驱动程序，官方下载地址：[PHP连接SQL
 
 ### 反馈建议
 
-反馈地址：[简易学生信息管理](https://www.rumosky.com/archives/30.html)
-
-个人主页地址：[如默星空](https://www.rumosky.com)
+反馈地址：[简易学生信息管理](https://rumosky.com/archives/70)
