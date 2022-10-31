@@ -68,4 +68,4 @@ PHP连接SQL server需要安装驱动程序，官方下载地址：[PHP连接SQL
 
 ### 反馈建议
 
-反馈地址：[简易学生信息管理](https://rumosky.com/archives/70)
+反馈地址：[简易学生信息管理](https://rumosky.com/archives/4)
